@@ -1,0 +1,1833 @@
+fileFormatVersion: 2
+guid: 55d4c416c105cfb4383c097ffeb33e98
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2700952585729850372
+    second: formulaElectricFields_0
+  - first:
+      213: 4860137845601629776
+    second: formulaElectricFields_1
+  - first:
+      213: -3311096007169985817
+    second: formulaElectricFields_2
+  - first:
+      213: 7164892587790966960
+    second: formulaElectricFields_3
+  - first:
+      213: 986577465256668108
+    second: formulaElectricFields_4
+  - first:
+      213: -6037822516282192194
+    second: formulaElectricFields_5
+  - first:
+      213: -7786879934458582097
+    second: formulaElectricFields_6
+  - first:
+      213: 5790191439428777291
+    second: formulaElectricFields_7
+  - first:
+      213: -7434696097957035122
+    second: formulaElectricFields_8
+  - first:
+      213: 3431363138046785720
+    second: formulaElectricFields_9
+  - first:
+      213: -466870910701824054
+    second: formulaElectricFields_10
+  - first:
+      213: 1697203095758189420
+    second: formulaElectricFields_11
+  - first:
+      213: 6542337825557607752
+    second: formulaElectricFields_12
+  - first:
+      213: 995424375281086158
+    second: formulaElectricFields_13
+  - first:
+      213: -8265298714974242696
+    second: formulaElectricFields_14
+  - first:
+      213: 2077626498020123325
+    second: formulaElectricFields_15
+  - first:
+      213: 6110123585501718055
+    second: formulaElectricFields_16
+  - first:
+      213: -4754674158896400875
+    second: formulaElectricFields_17
+  - first:
+      213: -6502495890017068114
+    second: formulaElectricFields_18
+  - first:
+      213: 7247788852488472597
+    second: formulaElectricFields_19
+  - first:
+      213: 8091128678173653256
+    second: formulaElectricFields_20
+  - first:
+      213: 6904799080128356162
+    second: formulaElectricFields_21
+  - first:
+      213: -3158067081705787678
+    second: formulaElectricFields_22
+  - first:
+      213: 4833452934147888223
+    second: formulaElectricFields_23
+  - first:
+      213: 5795723832090691416
+    second: formulaElectricFields_24
+  - first:
+      213: -4472841495563494571
+    second: formulaElectricFields_25
+  - first:
+      213: 2441905736774374344
+    second: formulaElectricFields_26
+  - first:
+      213: -5712718904723315352
+    second: formulaElectricFields_27
+  - first:
+      213: -7167724288101693881
+    second: formulaElectricFields_28
+  - first:
+      213: 2477235879576407244
+    second: formulaElectricFields_29
+  - first:
+      213: -6708560513873782122
+    second: formulaElectricFields_30
+  - first:
+      213: 114365385517369397
+    second: formulaElectricFields_31
+  - first:
+      213: -2093104386830308087
+    second: formulaElectricFields_32
+  - first:
+      213: -1074510954265395636
+    second: formulaElectricFields_33
+  - first:
+      213: 3997946466940801087
+    second: formulaElectricFields_34
+  - first:
+      213: -3825071086461865735
+    second: formulaElectricFields_35
+  - first:
+      213: 871236089799525784
+    second: formulaElectricFields_36
+  - first:
+      213: 2324539511422756189
+    second: formulaElectricFields_37
+  - first:
+      213: 3406258508287460065
+    second: formulaElectricFields_38
+  - first:
+      213: 1298873442978766452
+    second: formulaElectricFields_39
+  - first:
+      213: 4241162206824214306
+    second: formulaElectricFields_40
+  - first:
+      213: -8416644698038927139
+    second: formulaElectricFields_41
+  - first:
+      213: -6286495939272276275
+    second: formulaElectricFields_42
+  - first:
+      213: -1749470760072802064
+    second: formulaElectricFields_43
+  - first:
+      213: 631095880031354249
+    second: formulaElectricFields_44
+  - first:
+      213: -6402667626373048368
+    second: formulaElectricFields_45
+  - first:
+      213: -6508249869969408315
+    second: formulaElectricFields_46
+  - first:
+      213: 5730547307814055283
+    second: formulaElectricFields_47
+  - first:
+      213: -7984255939917533595
+    second: formulaElectricFields_48
+  - first:
+      213: -793278993927434729
+    second: formulaElectricFields_49
+  - first:
+      213: -4056581447640180081
+    second: formulaElectricFields_50
+  - first:
+      213: 66277784711127733
+    second: formulaElectricFields_51
+  - first:
+      213: -7220394115535632789
+    second: formulaElectricFields_52
+  - first:
+      213: 5007470427325931638
+    second: formulaElectricFields_53
+  - first:
+      213: 3592478105748413910
+    second: formulaElectricFields_54
+  - first:
+      213: -4350030835664873696
+    second: formulaElectricFields_55
+  - first:
+      213: -4178999232724276477
+    second: formulaElectricFields_56
+  - first:
+      213: 7709400917753756649
+    second: formulaElectricFields_57
+  - first:
+      213: 2358353078068224992
+    second: formulaElectricFields_58
+  - first:
+      213: -8401192077579311027
+    second: formulaElectricFields_59
+  - first:
+      213: 3833686702016188523
+    second: formulaElectricFields_60
+  - first:
+      213: 379653647955742384
+    second: formulaElectricFields_61
+  - first:
+      213: 1111799014289527527
+    second: formulaElectricFields_62
+  - first:
+      213: 7807642781275878647
+    second: formulaElectricFields_63
+  - first:
+      213: -4473299009086088071
+    second: formulaElectricFields_64
+  - first:
+      213: -7696867802328394157
+    second: formulaElectricFields_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: formulaElectricFields_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 757
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cb9930116bb7520800000000000000
+      internalID: 2700952585729850372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 143
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0567486de9da27340800000000000000
+      internalID: 4860137845601629776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 143
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e23b6379bf9c02d0800000000000000
+      internalID: -3311096007169985817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_3
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 142
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b02c1de8dfce6360800000000000000
+      internalID: 7164892587790966960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb67004af601bd00800000000000000
+      internalID: 986577465256668108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_5
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 143
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe05244968553ca0800000000000000
+      internalID: -6037822516282192194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_6
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 142
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabaafdc4f17fe390800000000000000
+      internalID: -7786879934458582097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_7
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 154
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45f8a8bf64ea5050800000000000000
+      internalID: 5790191439428777291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_8
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 154
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83c9442a47a2d890800000000000000
+      internalID: -7434696097957035122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 142
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8f5aa0896ae9f20800000000000000
+      internalID: 3431363138046785720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_10
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 143
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac797ab51675589f0800000000000000
+      internalID: -466870910701824054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_11
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 143
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c633c52393dad8710800000000000000
+      internalID: 1697203095758189420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_12
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 143
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84576fce69d0bca50800000000000000
+      internalID: 6542337825557607752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_13
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 142
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecee461023570dd00800000000000000
+      internalID: 995424375281086158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_14
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 142
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878b7733c92cb4d80800000000000000
+      internalID: -8265298714974242696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_15
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 143
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2ad6eca4635dc10800000000000000
+      internalID: 2077626498020123325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_16
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 142
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726e09737058bc450800000000000000
+      internalID: 6110123585501718055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_17
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51630483b01040eb0800000000000000
+      internalID: -4754674158896400875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_18
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 143
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab5812907e72c5a0800000000000000
+      internalID: -6502495890017068114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_19
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 142
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5188c979f81559460800000000000000
+      internalID: 7247788852488472597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_20
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 154
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80934860aa6794070800000000000000
+      internalID: 8091128678173653256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_21
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 154
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f9e702e26c2df50800000000000000
+      internalID: 6904799080128356162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_22
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 143
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee621aa8ba4c24d0800000000000000
+      internalID: -3158067081705787678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_23
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 143
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54547ab5dfd31340800000000000000
+      internalID: 4833452934147888223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_24
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 143
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85708044e1c8e6050800000000000000
+      internalID: 5795723832090691416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 143
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b9f40ab564de1c0800000000000000
+      internalID: -4472841495563494571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_26
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 143
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3dc6f645463e120800000000000000
+      internalID: 2441905736774374344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_27
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 143
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865ee466c6858b0b0800000000000000
+      internalID: -5712718904723315352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_28
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 143
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74642c77cb0278c90800000000000000
+      internalID: -7167724288101693881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_29
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 143
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc010358e8e06220800000000000000
+      internalID: 2477235879576407244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a575091c766e2a0800000000000000
+      internalID: -6708560513873782122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_31
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 107
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5380d5256be469100800000000000000
+      internalID: 114365385517369397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_32
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 80
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90dea2166acc3f2e0800000000000000
+      internalID: -2093104386830308087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_33
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 86
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ebeb7eaf19611f0800000000000000
+      internalID: -1074510954265395636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 107
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30d801312f8b7730800000000000000
+      internalID: 3997946466940801087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_35
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 86
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0b2daec1e9aeac0800000000000000
+      internalID: -3825071086461865735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_36
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 92
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89540009b90471c00800000000000000
+      internalID: 871236089799525784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_37
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 86
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55a6b4ae5c624020800000000000000
+      internalID: 2324539511422756189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_38
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 107
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e240afe016754f20800000000000000
+      internalID: 3406258508287460065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_39
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 86
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e10f0c386860210800000000000000
+      internalID: 1298873442978766452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_40
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 86
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fa1947e82abda30800000000000000
+      internalID: 4241162206824214306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_41
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 86
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd007bc8d32123b80800000000000000
+      internalID: -8416644698038927139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_42
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 86
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc68db12041e1c8a0800000000000000
+      internalID: -6286495939272276275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_43
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 92
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f09de0ec91a8b7e0800000000000000
+      internalID: -1749470760072802064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_44
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 100
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d3b74fb5a12c800800000000000000
+      internalID: 631095880031354249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_45
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 104
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7142377b72527a0800000000000000
+      internalID: -6402667626373048368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_46
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 86
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cebdf6b93d0ea5a0800000000000000
+      internalID: -6508249869969408315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_47
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 107
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37de3da2a6ef68f40800000000000000
+      internalID: 5730547307814055283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_48
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 104
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ea9696689323190800000000000000
+      internalID: -7984255939917533595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_49
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 99
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e0d2f35f4bdf4f0800000000000000
+      internalID: -793278993927434729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_50
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 99
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a97f28aa024b7c0800000000000000
+      internalID: -4056581447640180081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_51
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 82
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2e4364b477be000800000000000000
+      internalID: 66277784711127733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_52
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 68
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b668d25aec10ccb90800000000000000
+      internalID: -7220394115535632789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_53
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 82
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670290ca2db1e7540800000000000000
+      internalID: 5007470427325931638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_54
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 68
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd908cadcb0bd130800000000000000
+      internalID: 3592478105748413910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_55
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 82
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027133e900691a3c0800000000000000
+      internalID: -4350030835664873696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_56
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 75
+        width: 55
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30be6d0d6563106c0800000000000000
+      internalID: -4178999232724276477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_57
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 67
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb78cdd94b4dfa60800000000000000
+      internalID: 7709400917753756649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_58
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 17
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3a43121ad8ab020800000000000000
+      internalID: 2358353078068224992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_59
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 29
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d482f0e1158f86b80800000000000000
+      internalID: -8401192077579311027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_60
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 17
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6050d56ebdf33530800000000000000
+      internalID: 3833686702016188523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_61
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 38
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be45183bfcc44500800000000000000
+      internalID: 379653647955742384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_62
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 12
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e25b5c1057ed6f00800000000000000
+      internalID: 1111799014289527527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_63
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 17
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4771f2eb15a5c60800000000000000
+      internalID: 7807642781275878647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_64
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 0
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c11557046abe1c0800000000000000
+      internalID: -4473299009086088071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaElectricFields_65
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3561317738b3f2590800000000000000
+      internalID: -7696867802328394157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c44e4f9c8d77a154eafa086eff8b3790
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      formulaElectricFields_0: 2700952585729850372
+      formulaElectricFields_1: 4860137845601629776
+      formulaElectricFields_10: -466870910701824054
+      formulaElectricFields_11: 1697203095758189420
+      formulaElectricFields_12: 6542337825557607752
+      formulaElectricFields_13: 995424375281086158
+      formulaElectricFields_14: -8265298714974242696
+      formulaElectricFields_15: 2077626498020123325
+      formulaElectricFields_16: 6110123585501718055
+      formulaElectricFields_17: -4754674158896400875
+      formulaElectricFields_18: -6502495890017068114
+      formulaElectricFields_19: 7247788852488472597
+      formulaElectricFields_2: -3311096007169985817
+      formulaElectricFields_20: 8091128678173653256
+      formulaElectricFields_21: 6904799080128356162
+      formulaElectricFields_22: -3158067081705787678
+      formulaElectricFields_23: 4833452934147888223
+      formulaElectricFields_24: 5795723832090691416
+      formulaElectricFields_25: -4472841495563494571
+      formulaElectricFields_26: 2441905736774374344
+      formulaElectricFields_27: -5712718904723315352
+      formulaElectricFields_28: -7167724288101693881
+      formulaElectricFields_29: 2477235879576407244
+      formulaElectricFields_3: 7164892587790966960
+      formulaElectricFields_30: -6708560513873782122
+      formulaElectricFields_31: 114365385517369397
+      formulaElectricFields_32: -2093104386830308087
+      formulaElectricFields_33: -1074510954265395636
+      formulaElectricFields_34: 3997946466940801087
+      formulaElectricFields_35: -3825071086461865735
+      formulaElectricFields_36: 871236089799525784
+      formulaElectricFields_37: 2324539511422756189
+      formulaElectricFields_38: 3406258508287460065
+      formulaElectricFields_39: 1298873442978766452
+      formulaElectricFields_4: 986577465256668108
+      formulaElectricFields_40: 4241162206824214306
+      formulaElectricFields_41: -8416644698038927139
+      formulaElectricFields_42: -6286495939272276275
+      formulaElectricFields_43: -1749470760072802064
+      formulaElectricFields_44: 631095880031354249
+      formulaElectricFields_45: -6402667626373048368
+      formulaElectricFields_46: -6508249869969408315
+      formulaElectricFields_47: 5730547307814055283
+      formulaElectricFields_48: -7984255939917533595
+      formulaElectricFields_49: -793278993927434729
+      formulaElectricFields_5: -6037822516282192194
+      formulaElectricFields_50: -4056581447640180081
+      formulaElectricFields_51: 66277784711127733
+      formulaElectricFields_52: -7220394115535632789
+      formulaElectricFields_53: 5007470427325931638
+      formulaElectricFields_54: 3592478105748413910
+      formulaElectricFields_55: -4350030835664873696
+      formulaElectricFields_56: -4178999232724276477
+      formulaElectricFields_57: 7709400917753756649
+      formulaElectricFields_58: 2358353078068224992
+      formulaElectricFields_59: -8401192077579311027
+      formulaElectricFields_6: -7786879934458582097
+      formulaElectricFields_60: 3833686702016188523
+      formulaElectricFields_61: 379653647955742384
+      formulaElectricFields_62: 1111799014289527527
+      formulaElectricFields_63: 7807642781275878647
+      formulaElectricFields_64: -4473299009086088071
+      formulaElectricFields_65: -7696867802328394157
+      formulaElectricFields_7: 5790191439428777291
+      formulaElectricFields_8: -7434696097957035122
+      formulaElectricFields_9: 3431363138046785720
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

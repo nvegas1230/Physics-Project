@@ -1,0 +1,2275 @@
+fileFormatVersion: 2
+guid: f348b7b7fd4c3ee4f88da1e2d897fc7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7748157447337091689
+    second: formulaKinematics 1_0
+  - first:
+      213: 7574090805468201670
+    second: formulaKinematics 1_1
+  - first:
+      213: -5315422460163932207
+    second: formulaKinematics 1_2
+  - first:
+      213: 6868427023746351139
+    second: formulaKinematics 1_3
+  - first:
+      213: 2027429005139340475
+    second: formulaKinematics 1_4
+  - first:
+      213: -5875208751735624526
+    second: formulaKinematics 1_5
+  - first:
+      213: -339115887125557895
+    second: formulaKinematics 1_6
+  - first:
+      213: -6826492514275632782
+    second: formulaKinematics 1_7
+  - first:
+      213: 4644222119627486411
+    second: formulaKinematics 1_8
+  - first:
+      213: -747948824938837972
+    second: formulaKinematics 1_9
+  - first:
+      213: -1628710695773654241
+    second: formulaKinematics 1_10
+  - first:
+      213: -6149549819500421362
+    second: formulaKinematics 1_11
+  - first:
+      213: 5039350166695581281
+    second: formulaKinematics 1_12
+  - first:
+      213: -2603026289695137047
+    second: formulaKinematics 1_13
+  - first:
+      213: 8375590554224889092
+    second: formulaKinematics 1_14
+  - first:
+      213: -729290581913075429
+    second: formulaKinematics 1_15
+  - first:
+      213: -6030537270070784138
+    second: formulaKinematics 1_16
+  - first:
+      213: -8242738158228821596
+    second: formulaKinematics 1_17
+  - first:
+      213: -3431380864740239178
+    second: formulaKinematics 1_18
+  - first:
+      213: -7326903304533183568
+    second: formulaKinematics 1_19
+  - first:
+      213: 2629709278042374842
+    second: formulaKinematics 1_20
+  - first:
+      213: -8121119537429839413
+    second: formulaKinematics 1_21
+  - first:
+      213: 3549775793848653283
+    second: formulaKinematics 1_22
+  - first:
+      213: -8790508752114052563
+    second: formulaKinematics 1_23
+  - first:
+      213: -1176149252920824804
+    second: formulaKinematics 1_24
+  - first:
+      213: -8936872727731200995
+    second: formulaKinematics 1_25
+  - first:
+      213: 4156572769149514480
+    second: formulaKinematics 1_26
+  - first:
+      213: 1997381181545248007
+    second: formulaKinematics 1_27
+  - first:
+      213: 3332208869182591220
+    second: formulaKinematics 1_28
+  - first:
+      213: 5983444192141696847
+    second: formulaKinematics 1_29
+  - first:
+      213: 254174418999097408
+    second: formulaKinematics 1_30
+  - first:
+      213: 439167972740453634
+    second: formulaKinematics 1_31
+  - first:
+      213: -8000280000067672520
+    second: formulaKinematics 1_32
+  - first:
+      213: -5167074578759056716
+    second: formulaKinematics 1_33
+  - first:
+      213: 8938666322654210731
+    second: formulaKinematics 1_34
+  - first:
+      213: 3745963647596583682
+    second: formulaKinematics 1_35
+  - first:
+      213: -2007613521193955535
+    second: formulaKinematics 1_36
+  - first:
+      213: 5717214074775802558
+    second: formulaKinematics 1_37
+  - first:
+      213: 8407013519263987256
+    second: formulaKinematics 1_38
+  - first:
+      213: 1633946183045929076
+    second: formulaKinematics 1_39
+  - first:
+      213: 1451233632233879625
+    second: formulaKinematics 1_40
+  - first:
+      213: -1982649962760213464
+    second: formulaKinematics 1_41
+  - first:
+      213: -3488462715750814743
+    second: formulaKinematics 1_42
+  - first:
+      213: -3860424965162973944
+    second: formulaKinematics 1_43
+  - first:
+      213: 6818991341801031368
+    second: formulaKinematics 1_44
+  - first:
+      213: 3693051852850220368
+    second: formulaKinematics 1_45
+  - first:
+      213: -2813176451878396248
+    second: formulaKinematics 1_46
+  - first:
+      213: 3345647710584114404
+    second: formulaKinematics 1_47
+  - first:
+      213: -1249154942751408130
+    second: formulaKinematics 1_48
+  - first:
+      213: 2137522128334789220
+    second: formulaKinematics 1_49
+  - first:
+      213: -3867541276555747543
+    second: formulaKinematics 1_50
+  - first:
+      213: 6231156889916765195
+    second: formulaKinematics 1_51
+  - first:
+      213: -5220530861534604858
+    second: formulaKinematics 1_52
+  - first:
+      213: 8505777446975235567
+    second: formulaKinematics 1_53
+  - first:
+      213: 93154598458932261
+    second: formulaKinematics 1_54
+  - first:
+      213: -5957802055171556423
+    second: formulaKinematics 1_55
+  - first:
+      213: -7912714774605362272
+    second: formulaKinematics 1_56
+  - first:
+      213: 2452289693278377630
+    second: formulaKinematics 1_57
+  - first:
+      213: 559877202248211469
+    second: formulaKinematics 1_58
+  - first:
+      213: -3831654199508099383
+    second: formulaKinematics 1_59
+  - first:
+      213: -6595922347641176989
+    second: formulaKinematics 1_60
+  - first:
+      213: 5190285621764613280
+    second: formulaKinematics 1_61
+  - first:
+      213: 4371741950992488549
+    second: formulaKinematics 1_62
+  - first:
+      213: 8969078859035391541
+    second: formulaKinematics 1_63
+  - first:
+      213: -6565503493302240266
+    second: formulaKinematics 1_64
+  - first:
+      213: 8128582147507675337
+    second: formulaKinematics 1_65
+  - first:
+      213: 1927625687822489542
+    second: formulaKinematics 1_66
+  - first:
+      213: -8122730091659060200
+    second: formulaKinematics 1_67
+  - first:
+      213: 3480054956503238995
+    second: formulaKinematics 1_68
+  - first:
+      213: 1956168922437222602
+    second: formulaKinematics 1_69
+  - first:
+      213: 289461386629464948
+    second: formulaKinematics 1_70
+  - first:
+      213: -730522360849085248
+    second: formulaKinematics 1_71
+  - first:
+      213: 5994183467469602233
+    second: formulaKinematics 1_72
+  - first:
+      213: 3357373498000374905
+    second: formulaKinematics 1_73
+  - first:
+      213: -8584052082167499111
+    second: formulaKinematics 1_74
+  - first:
+      213: 6110951918195389748
+    second: formulaKinematics 1_75
+  - first:
+      213: 128592708798455473
+    second: formulaKinematics 1_76
+  - first:
+      213: 1820662048665923059
+    second: formulaKinematics 1_77
+  - first:
+      213: -4527753480024016544
+    second: formulaKinematics 1_78
+  - first:
+      213: 3146005940700122004
+    second: formulaKinematics 1_79
+  - first:
+      213: 2914108865376318496
+    second: formulaKinematics 1_80
+  - first:
+      213: 689546782175900016
+    second: formulaKinematics 1_81
+  - first:
+      213: -5459793975718455950
+    second: formulaKinematics 1_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: formulaKinematics 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 741
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ddca76ad3097490800000000000000
+      internalID: -7748157447337091689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 109
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c20c7455739c1960800000000000000
+      internalID: 7574090805468201670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 131
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfbbce4f63db36b0800000000000000
+      internalID: -5315422460163932207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_3
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 126
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3204814dcfd815f50800000000000000
+      internalID: 6868427023746351139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 126
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc67aa30ffd22c10800000000000000
+      internalID: 2027429005139340475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_5
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 109
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc288bb4c0177ea0800000000000000
+      internalID: -5875208751735624526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_6
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 124
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d803ab5e73b4bf0800000000000000
+      internalID: -339115887125557895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279dcb00a3d6341a0800000000000000
+      internalID: -6826492514275632782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_8
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 106
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc478626967937040800000000000000
+      internalID: 4644222119627486411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_9
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 97
+        width: 87
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28895ba180ce95f0800000000000000
+      internalID: -747948824938837972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_10
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 111
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1338806048a569e0800000000000000
+      internalID: -1628710695773654241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_11
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 109
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f1c18550968aaa0800000000000000
+      internalID: -6149549819500421362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_12
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 111
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16612b8e64e5fe540800000000000000
+      internalID: 5039350166695581281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 107
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2e7b5816130ebd0800000000000000
+      internalID: -2603026289695137047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_14
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 106
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d01b8bb331c3470800000000000000
+      internalID: 8375590554224889092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 109
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b118807641a01e5f0800000000000000
+      internalID: -729290581913075429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_16
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 106
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f4da4dd4a3f4ca0800000000000000
+      internalID: -6030537270070784138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_17
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 106
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9a6362159eb9d80800000000000000
+      internalID: -8242738158228821596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_18
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 106
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8d514a8494160d0800000000000000
+      internalID: -3431380864740239178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_19
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 91
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3f9ad934c915a90800000000000000
+      internalID: -7326903304533183568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_20
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 91
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2c344d7aa9e7420800000000000000
+      internalID: 2629709278042374842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc18209eeccfb4f80800000000000000
+      internalID: -8121119537429839413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_22
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 87
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e511a8e646534130800000000000000
+      internalID: 3549775793848653283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_23
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 87
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2297433dd6d10680800000000000000
+      internalID: -8790508752114052563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 83
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c20d86c7a7dafe0800000000000000
+      internalID: -1176149252920824804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 73
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c94bc8a99d9f380800000000000000
+      internalID: -8936872727731200995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_26
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 73
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2f73c39ec1fa930800000000000000
+      internalID: 4156572769149514480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_27
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 91
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705fd0f1a9f18bb10800000000000000
+      internalID: 1997381181545248007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 87
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0d80dcf426e3e20800000000000000
+      internalID: 3332208869182591220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_29
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 84
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fdaf58ac6790350800000000000000
+      internalID: 5983444192141696847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_30
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 73
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048be639942078300800000000000000
+      internalID: 254174418999097408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_31
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 91
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2055ce3c1fc381600800000000000000
+      internalID: 439167972740453634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_32
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 87
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836ed4c2abb49f090800000000000000
+      internalID: -8000280000067672520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_33
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 87
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b28d150c0dda48b0800000000000000
+      internalID: -5167074578759056716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_34
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 84
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa2d8f49a58c0c70800000000000000
+      internalID: 8938666322654210731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_35
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 73
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b558c27165cf330800000000000000
+      internalID: 3745963647596583682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_36
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 73
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f86f6a3268324e0800000000000000
+      internalID: -2007613521193955535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_37
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 91
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb210efe8ef975f40800000000000000
+      internalID: 5717214074775802558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_38
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 87
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836f2a5e046bba470800000000000000
+      internalID: 8407013519263987256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_39
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 91
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478de8e7561fca610800000000000000
+      internalID: 1633946183045929076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_40
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 87
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948766fac41d32410800000000000000
+      internalID: 1451233632233879625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_41
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 89
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c6cb70d563c74e0800000000000000
+      internalID: -1982649962760213464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_42
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 91
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb6a7784ad769fc0800000000000000
+      internalID: -3488462715750814743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_43
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 52
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805496592f30d6ac0800000000000000
+      internalID: -3860424965162973944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_44
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 35
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6c38e2f7ce1ae50800000000000000
+      internalID: 6818991341801031368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_45
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 37
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d4c32f71b504330800000000000000
+      internalID: 3693051852850220368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_46
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 52
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae5b4ffbe695f8d0800000000000000
+      internalID: -2813176451878396248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_47
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 35
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec07f4edd02e6e20800000000000000
+      internalID: 3345647710584114404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_48
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 17
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efff0e7a23c1aaee0800000000000000
+      internalID: -1249154942751408130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_49
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 17
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a9ee6fc010aad10800000000000000
+      internalID: 2137522128334789220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_50
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 38
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fdbb833bbb35ac0800000000000000
+      internalID: -3867541276555747543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 23
+        width: 88
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0477336d24897650800000000000000
+      internalID: 6231156889916765195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_52
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 37
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1144b47d2fc87b0800000000000000
+      internalID: -5220530861534604858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_53
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 33
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5ec71c5879a0670800000000000000
+      internalID: 8505777446975235567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_54
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 17
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cb65e1d93fa4100800000000000000
+      internalID: 93154598458932261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_55
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 17
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb386bb892a15da0800000000000000
+      internalID: -5957802055171556423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_56
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 17
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab89aaf5d3603290800000000000000
+      internalID: -7912714774605362272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_57
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 38
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e969536bb78480220800000000000000
+      internalID: 2452289693278377630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_58
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 31
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c18dd595515c700800000000000000
+      internalID: 559877202248211469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_59
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 32
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce9f287eca33dac0800000000000000
+      internalID: -3831654199508099383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_60
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 28
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c79ce42939674a0800000000000000
+      internalID: -6595922347641176989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_61
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 28
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4e8101649970840800000000000000
+      internalID: 5190285621764613280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_62
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 28
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5689496542c8bac30800000000000000
+      internalID: 4371741950992488549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_63
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 17
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536354bb3b1987c70800000000000000
+      internalID: 8969078859035391541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_64
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 31
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb322ebb55a2e4a0800000000000000
+      internalID: -6565503493302240266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_65
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 17
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0e6c565668ec070800000000000000
+      internalID: 8128582147507675337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_66
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 38
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7d39e995d40ca10800000000000000
+      internalID: 1927625687822489542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_67
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c19488404464f80800000000000000
+      internalID: -8122730091659060200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_68
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 17
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35986397b83ab4030800000000000000
+      internalID: 3480054956503238995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_69
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 17
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0878e4545b52b10800000000000000
+      internalID: 1956168922437222602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_70
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 13
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473cd36f89f540400800000000000000
+      internalID: 289461386629464948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_71
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 17
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc4c1588c9acd5f0800000000000000
+      internalID: -730522360849085248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_72
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 15
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd7b09ea1e9f2350800000000000000
+      internalID: 5994183467469602233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_73
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 17
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c7f968869c79e20800000000000000
+      internalID: 3357373498000374905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_74
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99634fc8c125fd880800000000000000
+      internalID: -8584052082167499111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_75
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 17
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435378374667ec450800000000000000
+      internalID: 6110951918195389748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_76
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 17
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be13a8236ad8c100800000000000000
+      internalID: 128592708798455473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_77
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 6
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd64caac7a444910800000000000000
+      internalID: 1820662048665923059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_78
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 17
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06931a0f2303a21c0800000000000000
+      internalID: -4527753480024016544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_79
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 10
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b03bc1cbbd8ab20800000000000000
+      internalID: 3146005940700122004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_80
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 15
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024729dc29ef07820800000000000000
+      internalID: 2914108865376318496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_81
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 17
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071bb9f1523c19900800000000000000
+      internalID: 689546782175900016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaKinematics 1_82
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 17
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275db7a6e4aea34b0800000000000000
+      internalID: -5459793975718455950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a6688382eafc2c94986508b0d1e3d076
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      formulaKinematics 1_0: -7748157447337091689
+      formulaKinematics 1_1: 7574090805468201670
+      formulaKinematics 1_10: -1628710695773654241
+      formulaKinematics 1_11: -6149549819500421362
+      formulaKinematics 1_12: 5039350166695581281
+      formulaKinematics 1_13: -2603026289695137047
+      formulaKinematics 1_14: 8375590554224889092
+      formulaKinematics 1_15: -729290581913075429
+      formulaKinematics 1_16: -6030537270070784138
+      formulaKinematics 1_17: -8242738158228821596
+      formulaKinematics 1_18: -3431380864740239178
+      formulaKinematics 1_19: -7326903304533183568
+      formulaKinematics 1_2: -5315422460163932207
+      formulaKinematics 1_20: 2629709278042374842
+      formulaKinematics 1_21: -8121119537429839413
+      formulaKinematics 1_22: 3549775793848653283
+      formulaKinematics 1_23: -8790508752114052563
+      formulaKinematics 1_24: -1176149252920824804
+      formulaKinematics 1_25: -8936872727731200995
+      formulaKinematics 1_26: 4156572769149514480
+      formulaKinematics 1_27: 1997381181545248007
+      formulaKinematics 1_28: 3332208869182591220
+      formulaKinematics 1_29: 5983444192141696847
+      formulaKinematics 1_3: 6868427023746351139
+      formulaKinematics 1_30: 254174418999097408
+      formulaKinematics 1_31: 439167972740453634
+      formulaKinematics 1_32: -8000280000067672520
+      formulaKinematics 1_33: -5167074578759056716
+      formulaKinematics 1_34: 8938666322654210731
+      formulaKinematics 1_35: 3745963647596583682
+      formulaKinematics 1_36: -2007613521193955535
+      formulaKinematics 1_37: 5717214074775802558
+      formulaKinematics 1_38: 8407013519263987256
+      formulaKinematics 1_39: 1633946183045929076
+      formulaKinematics 1_4: 2027429005139340475
+      formulaKinematics 1_40: 1451233632233879625
+      formulaKinematics 1_41: -1982649962760213464
+      formulaKinematics 1_42: -3488462715750814743
+      formulaKinematics 1_43: -3860424965162973944
+      formulaKinematics 1_44: 6818991341801031368
+      formulaKinematics 1_45: 3693051852850220368
+      formulaKinematics 1_46: -2813176451878396248
+      formulaKinematics 1_47: 3345647710584114404
+      formulaKinematics 1_48: -1249154942751408130
+      formulaKinematics 1_49: 2137522128334789220
+      formulaKinematics 1_5: -5875208751735624526
+      formulaKinematics 1_50: -3867541276555747543
+      formulaKinematics 1_51: 6231156889916765195
+      formulaKinematics 1_52: -5220530861534604858
+      formulaKinematics 1_53: 8505777446975235567
+      formulaKinematics 1_54: 93154598458932261
+      formulaKinematics 1_55: -5957802055171556423
+      formulaKinematics 1_56: -7912714774605362272
+      formulaKinematics 1_57: 2452289693278377630
+      formulaKinematics 1_58: 559877202248211469
+      formulaKinematics 1_59: -3831654199508099383
+      formulaKinematics 1_6: -339115887125557895
+      formulaKinematics 1_60: -6595922347641176989
+      formulaKinematics 1_61: 5190285621764613280
+      formulaKinematics 1_62: 4371741950992488549
+      formulaKinematics 1_63: 8969078859035391541
+      formulaKinematics 1_64: -6565503493302240266
+      formulaKinematics 1_65: 8128582147507675337
+      formulaKinematics 1_66: 1927625687822489542
+      formulaKinematics 1_67: -8122730091659060200
+      formulaKinematics 1_68: 3480054956503238995
+      formulaKinematics 1_69: 1956168922437222602
+      formulaKinematics 1_7: -6826492514275632782
+      formulaKinematics 1_70: 289461386629464948
+      formulaKinematics 1_71: -730522360849085248
+      formulaKinematics 1_72: 5994183467469602233
+      formulaKinematics 1_73: 3357373498000374905
+      formulaKinematics 1_74: -8584052082167499111
+      formulaKinematics 1_75: 6110951918195389748
+      formulaKinematics 1_76: 128592708798455473
+      formulaKinematics 1_77: 1820662048665923059
+      formulaKinematics 1_78: -4527753480024016544
+      formulaKinematics 1_79: 3146005940700122004
+      formulaKinematics 1_8: 4644222119627486411
+      formulaKinematics 1_80: 2914108865376318496
+      formulaKinematics 1_81: 689546782175900016
+      formulaKinematics 1_82: -5459793975718455950
+      formulaKinematics 1_9: -747948824938837972
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

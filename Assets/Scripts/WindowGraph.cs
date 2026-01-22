@@ -70,10 +70,61 @@ public class WindowGraph : MonoBehaviour
             }
         }
 
-        //yMax *= 1.1f;
-        //yMin *= 1.1f;
-        yMax += ((yMax - yMin) * 0.1f);
-        yMin -= ((yMax - yMin) * 0.1f);
+        // Added this to make sure values go up by consistent amount, and to make sure there are no repeats in numbers
+        // There is probably a more clear way to do this with modulo, but I cannot think of it atm
+        float yTotalDifference = Mathf.Abs(yMax - yMin);
+        if (yTotalDifference < 10f)
+        {
+            yMax = yMax + 1f;
+            yMin = yMax - 10f;
+        }
+        //*
+        else if (yTotalDifference >= 10f && yTotalDifference < 20f)
+        {
+            yMax = yMax + 1f;
+            yMin = yMax - 20f;
+        }
+        else if (yTotalDifference >= 20f && yTotalDifference < 30f)
+        {
+            yMax = yMax + 1f;
+            yMin = yMax - 30f;
+        }
+        else if (yTotalDifference >= 30f && yTotalDifference < 40f)
+        {
+            yMax = yMax + 1f;
+            yMin = yMax - 40f;
+        }
+        else if (yTotalDifference >= 40f && yTotalDifference < 50f)
+        {
+            yMax = yMax + 1f;
+            yMin = yMax - 50f;
+        }
+        else if (yTotalDifference >= 50f && yTotalDifference < 60f)
+        {
+            yMax = yMax + 1f;
+            yMin = yMax - 60f;
+        }
+        else if (yTotalDifference >= 60f && yTotalDifference < 70f)
+        {
+            yMax = yMax + 1f;
+            yMin = yMax - 70f;
+        }
+        else if (yTotalDifference >= 70f && yTotalDifference < 80f)
+        {
+            yMax = yMax + 1f;
+            yMin = yMax - 80f;
+        }
+        else if (yTotalDifference >= 80f && yTotalDifference < 90f)
+        {
+            yMax = yMax + 1f;
+            yMin = yMax - 90f;
+        }
+        else if (yTotalDifference >= 90f && yTotalDifference < 100f)
+        {
+            yMax = yMax + 1f;
+            yMin = yMax - 100f;
+        }
+        //*/
 
         GameObject previousCircle = null;
 
@@ -133,6 +184,22 @@ public class WindowGraph : MonoBehaviour
             dashX.localScale = new Vector3(1,1,1);
             gameObjectList.Add(dashX.gameObject);
         }
+
+        // Extra line for bottom of graph
+        RectTransform bottomLabel = Instantiate(LabelTemplateY);
+        bottomLabel.SetParent(GraphContainer, false);
+        bottomLabel.gameObject.SetActive(true);
+        bottomLabel.anchoredPosition = new Vector2(-7f, 0 * graphHeight);
+        bottomLabel.GetComponent<TMP_Text>().text = Mathf.RoundToInt(yMin + (0 * (yMax - yMin))).ToString();
+        bottomLabel.localScale = new Vector3(1,1,1);
+        gameObjectList.Add(bottomLabel.gameObject);
+
+        RectTransform bottomDashX = Instantiate(DashTemplateX);
+        bottomDashX.SetParent(GraphContainer);
+        bottomDashX.gameObject.SetActive(true);
+        bottomDashX.anchoredPosition = new Vector2(250, 0 * graphHeight);
+        bottomDashX.localScale = new Vector3(1,1,1);
+        gameObjectList.Add(bottomDashX.gameObject);
     }
     
     Vector2 increment = new Vector2(0, 10);
@@ -350,22 +417,22 @@ public class WindowGraph : MonoBehaviour
             if (currentCollisionsObject.v1i < 0f)
             {
                 BeforeArrows.Find("Left1").gameObject.SetActive(true);
-                BeforeArrows.Find("Left1").Find("Text (TMP)").GetComponent<TMP_Text>().text = $"V<sub>i</sub> = {ToDisplayString(Mathf.Abs(currentCollisionsObject.v1i))}m/s";
+                BeforeArrows.Find("Left1").Find("Text (TMP)").GetComponent<TMP_Text>().text = $"V<sub>1i</sub> = {ToDisplayString(Mathf.Abs(currentCollisionsObject.v1i))}m/s";
             }
             else if (currentCollisionsObject.v1i > 0f)
             {
                 BeforeArrows.Find("Right1").gameObject.SetActive(true);
-                BeforeArrows.Find("Right1").Find("Text (TMP)").GetComponent<TMP_Text>().text = $"V<sub>i</sub> = {ToDisplayString(Mathf.Abs(currentCollisionsObject.v1i))}m/s";
+                BeforeArrows.Find("Right1").Find("Text (TMP)").GetComponent<TMP_Text>().text = $"V<sub>1i</sub> = {ToDisplayString(Mathf.Abs(currentCollisionsObject.v1i))}m/s";
             }
             if (currentCollisionsObject.v2i < 0f)
             {
                 BeforeArrows.Find("Left2").gameObject.SetActive(true);
-                BeforeArrows.Find("Left2").Find("Text (TMP)").GetComponent<TMP_Text>().text = $"V<sub>i</sub> = {ToDisplayString(Mathf.Abs(currentCollisionsObject.v2i))}m/s";
+                BeforeArrows.Find("Left2").Find("Text (TMP)").GetComponent<TMP_Text>().text = $"V<sub>2i</sub> = {ToDisplayString(Mathf.Abs(currentCollisionsObject.v2i))}m/s";
             }
             else if (currentCollisionsObject.v2i > 0f)
             {
                 BeforeArrows.Find("Right2").gameObject.SetActive(true);
-                BeforeArrows.Find("Right2").Find("Text (TMP)").GetComponent<TMP_Text>().text = $"V<sub>i</sub> = {ToDisplayString(Mathf.Abs(currentCollisionsObject.v2i))}m/s";
+                BeforeArrows.Find("Right2").Find("Text (TMP)").GetComponent<TMP_Text>().text = $"V<sub>2i</sub> = {ToDisplayString(Mathf.Abs(currentCollisionsObject.v2i))}m/s";
             }
         }
         else
@@ -389,22 +456,22 @@ public class WindowGraph : MonoBehaviour
         if (currentCollisionsObject.v1f < 0f)
         {
             AfterArrows.Find("Left1").gameObject.SetActive(true);
-            AfterArrows.Find("Left1").Find("Text (TMP)").GetComponent<TMP_Text>().text = $"V<sub>f</sub> = {ToDisplayString(Mathf.Abs(currentCollisionsObject.v1f))}m/s";
+            AfterArrows.Find("Left1").Find("Text (TMP)").GetComponent<TMP_Text>().text = $"V<sub>1f</sub> = {ToDisplayString(Mathf.Abs(currentCollisionsObject.v1f))}m/s";
         }
         else if (currentCollisionsObject.v1f > 0f)
         {
             AfterArrows.Find("Right1").gameObject.SetActive(true);
-            AfterArrows.Find("Right1").Find("Text (TMP)").GetComponent<TMP_Text>().text = $"V<sub>f</sub> = {ToDisplayString(Mathf.Abs(currentCollisionsObject.v1f))}m/s";
+            AfterArrows.Find("Right1").Find("Text (TMP)").GetComponent<TMP_Text>().text = $"V<sub>1f</sub> = {ToDisplayString(Mathf.Abs(currentCollisionsObject.v1f))}m/s";
         }
         if (currentCollisionsObject.v2f < 0f)
         {
             AfterArrows.Find("Left2").gameObject.SetActive(true);
-            AfterArrows.Find("Left2").Find("Text (TMP)").GetComponent<TMP_Text>().text = $"V<sub>f</sub> = {ToDisplayString(Mathf.Abs(currentCollisionsObject.v2f))}m/s";
+            AfterArrows.Find("Left2").Find("Text (TMP)").GetComponent<TMP_Text>().text = $"V<sub>2f</sub> = {ToDisplayString(Mathf.Abs(currentCollisionsObject.v2f))}m/s";
         }
         else if (currentCollisionsObject.v2f > 0f)
         {
             AfterArrows.Find("Right2").gameObject.SetActive(true);
-            AfterArrows.Find("Right2").Find("Text (TMP)").GetComponent<TMP_Text>().text = $"V<sub>f</sub> = {ToDisplayString(Mathf.Abs(currentCollisionsObject.v2f))}m/s";
+            AfterArrows.Find("Right2").Find("Text (TMP)").GetComponent<TMP_Text>().text = $"V<sub>2f</sub> = {ToDisplayString(Mathf.Abs(currentCollisionsObject.v2f))}m/s";
         }
 
         // Setting the unknown value to ? on diagram

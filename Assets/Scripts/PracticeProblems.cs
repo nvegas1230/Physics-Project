@@ -216,13 +216,24 @@ public class PracticeProblems : MonoBehaviour
             //if (Answer2Box.gameObject.activeInHierarchy) Answer2Box.gameObject.SetActive(false);
         }
 
+        string variableTextChain = "";
+        if (problem.t.HasValue) { variableTextChain = variableTextChain + $"t = {ToDisplayString(problem.t, "0.00")}s"; } else { variableTextChain = variableTextChain + $"t = ?"; }
+        if (problem.di.HasValue) { variableTextChain = variableTextChain + $"\nd<sub>i</sub> = {ToDisplayString(problem.di, "0.00")}m"; } else { variableTextChain = variableTextChain + $"\nd<sub>i</sub> = ?"; }
+        if (problem.df.HasValue) { variableTextChain = variableTextChain + $"\nd<sub>f</sub> = {ToDisplayString(problem.df, "0.00")}m"; } else { variableTextChain = variableTextChain + $"\nd<sub>f</sub> = ?"; }
+        if (problem.vi.HasValue) { variableTextChain = variableTextChain + $"\nv<sub>i</sub> = {ToDisplayString(problem.vi, "0.00")}m/s"; } else { variableTextChain = variableTextChain + $"\nv<sub>i</sub> = ?"; }
+        if (problem.vf.HasValue) { variableTextChain = variableTextChain + $"\nv<sub>f</sub> = {ToDisplayString(problem.vf, "0.00")}m/s"; } else { variableTextChain = variableTextChain + $"\nv<sub>f</sub> = ?"; }
+        if (problem.a.HasValue) { variableTextChain = variableTextChain + $"\na = {ToDisplayString(problem.a, "0.00")}m/s<sup>2</sup>"; } else { variableTextChain = variableTextChain + $"\na = ?"; }
+        
         // Set variables text
-        VariableText.text = $@"t = {ToDisplayString(problem.t, "0.00")}
-d<sub>i</sub> = {ToDisplayString(problem.di, "0.00")}
-d<sub>f</sub> = {ToDisplayString(problem.df, "0.00")}
-v<sub>i</sub> = {ToDisplayString(problem.vi, "0.00")}
-v<sub>f</sub> = {ToDisplayString(problem.vf, "0.00")}
-a = {ToDisplayString(problem.a, "0.00")}";
+        VariableText.text = variableTextChain;
+        /*
+        VariableText.text = $@"t = {ToDisplayString(problem.t, "0.00")}s
+d<sub>i</sub> = {ToDisplayString(problem.di, "0.00")}m
+d<sub>f</sub> = {ToDisplayString(problem.df, "0.00")}m
+v<sub>i</sub> = {ToDisplayString(problem.vi, "0.00")}m/s
+v<sub>f</sub> = {ToDisplayString(problem.vf, "0.00")}m/s
+a = {ToDisplayString(problem.a, "0.00")}m/s<sup>2</sup>";
+        //*/
 
         // Reset answer box text
         //Answer1Box.text = "";
@@ -241,27 +252,25 @@ a = {ToDisplayString(problem.a, "0.00")}";
         //TMP_InputField Answer1Box = BasicKinematicsContainer.transform.Find("AnswerContainer").Find("Image").Find("Container").Find("InputField1").gameObject.GetComponent<TMP_InputField>();
         //TMP_InputField Answer2Box = BasicKinematicsContainer.transform.Find("AnswerContainer").Find("Image").Find("Container").Find("InputField2").gameObject.GetComponent<TMP_InputField>();
 
-        float? GetUnknown(string unknownVar)
+        string GetUnknown(string unknownVar)
         {
-            if (unknownVar == "t") { return currentBasicKinematicsProblem.t; };
-            if (unknownVar == "di") { return currentBasicKinematicsProblem.di; };
-            if (unknownVar == "df") { return currentBasicKinematicsProblem.df; };
-            if (unknownVar == "vi") { return currentBasicKinematicsProblem.vi; };
-            if (unknownVar == "vf") { return currentBasicKinematicsProblem.vf; };
-            if (unknownVar == "a")  { return currentBasicKinematicsProblem.a; };
-
-            return null;
+            if (unknownVar == "t") { return $"{ToDisplayString(currentBasicKinematicsProblem.t)}s"; };
+            if (unknownVar == "di") { return $"{ToDisplayString(currentBasicKinematicsProblem.di)}m"; };
+            if (unknownVar == "df") { return $"{ToDisplayString(currentBasicKinematicsProblem.df)}m"; };
+            if (unknownVar == "vi") { return $"{ToDisplayString(currentBasicKinematicsProblem.vi)}m/s"; };
+            if (unknownVar == "vf") { return $"{ToDisplayString(currentBasicKinematicsProblem.vf)}m/s"; };
+            if (unknownVar == "a")  { return $"{ToDisplayString(currentBasicKinematicsProblem.a)}m/s<sup>2</sup>"; };
+            return "";
         }
 
         currentBasicKinematicsProblem.CalculateUnknown();
 
         //float? FirstAnswer = FilterAnswer(Answer1Box.text);
-        float? FirstSolution = GetUnknown(unknowns[0]);
         
         if (unknowns.Count == 1)
         {
             //plrAnswerText.text = $"{unknowns[0]} = {ToDisplayString(FirstAnswer)}";
-            solutionText.text = $"{unknowns[0]} = {ToDisplayString(FirstSolution)}";
+            solutionText.text = $"{unknowns[0]} = {GetUnknown(unknowns[0])}";
 
             /*
             if (FloatsEqual(FirstAnswer, FirstSolution))
@@ -277,10 +286,9 @@ a = {ToDisplayString(problem.a, "0.00")}";
         else
         {
             //float? SecondAnswer = FilterAnswer(Answer2Box.text);
-            float? SecondSolution = GetUnknown(unknowns[1]);
 
             //plrAnswerText.text = $"{unknowns[0]} = {ToDisplayString(FirstAnswer)}\n{unknowns[1]} = {ToDisplayString(SecondAnswer)}";
-            solutionText.text = $"{unknowns[0]} = {ToDisplayString(FirstSolution)}\n{unknowns[1]} = {ToDisplayString(SecondSolution)}";
+            solutionText.text = $"{unknowns[0]} = {GetUnknown(unknowns[0])}\n{unknowns[1]} = {GetUnknown(unknowns[1])}";
 
             /*
             if (FloatsEqual(FirstAnswer, FirstSolution) && FloatsEqual(SecondAnswer, SecondSolution))
@@ -1344,6 +1352,34 @@ a = {ToDisplayString(problem.a, "0.00")}";
         else if (problemType == "WireinaMagneticField") { AnswerWireinaMagneticFieldProblem(); }
         else if (problemType == "ChargeinaMagneticField") { AnswerChargeinaMagneticFieldProblem(); }
         else if (problemType == "MomentumImpulse") { AnswerMomentumImpulseProblem(); }
+        else
+        {
+            Debug.Log("Unknown ProblemType.");
+        }
+    }
+
+    // Code for closing solution windows without having to code each button individually
+    public void CloseSolutionWindow()
+    {
+        string practiceUnit = SceneDataTransfer.PhysicsUnit;
+        string problemType = SceneDataTransfer.ProblemType;
+
+        if (problemType == "BasicKinematics") { BasicKinematicsSolutionContainer.SetActive(false); }
+        else if (problemType == "MotionGraphs") { MotionGraphsSolutionContainer.SetActive(false); }
+        else if (problemType == "ComponentKinematics") { ComponentKinematicsSolutionContainer.SetActive(false); }
+        else if (problemType == "BasicDynamics") { BasicDynamicsSolutionContainer.SetActive(false); }
+        else if (problemType == "ComponentDynamics") { ComponentDynamicsSolutionContainer.SetActive(false); }
+        else if (problemType == "Tension") { TensionSolutionContainer.SetActive(false); }
+        else if (problemType == "CentreOfMass") { CentreOfMassSolutionContainer.SetActive(false); }
+        else if (problemType == "Work") { WorkSolutionContainer.SetActive(false); }
+        else if (problemType == "Collisions") { CollisionsSolutionContainer.SetActive(false); }
+        else if (problemType == "ElectricForce") { ElectricForceSolutionContainer.SetActive(false); }
+        else if (problemType == "ElectricFields") { ElectricFieldsSolutionContainer.SetActive(false); }
+        else if (problemType == "CurrentElectricity") { CurrentElectricitySolutionContainer.SetActive(false); }
+        else if (problemType == "MagneticFieldStrength") { MagneticFieldStrengthSolutionContainer.SetActive(false); }
+        else if (problemType == "WireinaMagneticField") { WireinaMagneticFieldSolutionContainer.SetActive(false); ChargeinaMagneticFieldSolutionContainer.SetActive(false); }
+        else if (problemType == "ChargeinaMagneticField") { WireinaMagneticFieldSolutionContainer.SetActive(false); ChargeinaMagneticFieldSolutionContainer.SetActive(false); }
+        else if (problemType == "MomentumImpulse") { MomentumImpulseSolutionContainer.SetActive(false); }
         else
         {
             Debug.Log("Unknown ProblemType.");

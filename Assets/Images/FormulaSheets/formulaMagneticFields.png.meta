@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 26eea46e877d08e4198f5743f29bc7d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7757466402134733103
+    second: formulaMagneticFields_0
+  - first:
+      213: 5126407996507770249
+    second: formulaMagneticFields_1
+  - first:
+      213: -5481012315025468554
+    second: formulaMagneticFields_2
+  - first:
+      213: 3003888954743539562
+    second: formulaMagneticFields_3
+  - first:
+      213: -1410714078683722865
+    second: formulaMagneticFields_4
+  - first:
+      213: -3394656656518354889
+    second: formulaMagneticFields_5
+  - first:
+      213: -7387421129411359632
+    second: formulaMagneticFields_6
+  - first:
+      213: -2811716091521373495
+    second: formulaMagneticFields_7
+  - first:
+      213: 5448160942309901357
+    second: formulaMagneticFields_8
+  - first:
+      213: -3960799983590032382
+    second: formulaMagneticFields_9
+  - first:
+      213: 3092560298609039303
+    second: formulaMagneticFields_10
+  - first:
+      213: 2400981601570080049
+    second: formulaMagneticFields_11
+  - first:
+      213: 183972120428261839
+    second: formulaMagneticFields_12
+  - first:
+      213: 8188914944625419603
+    second: formulaMagneticFields_13
+  - first:
+      213: -2009561604204371706
+    second: formulaMagneticFields_14
+  - first:
+      213: 2817209229356532212
+    second: formulaMagneticFields_15
+  - first:
+      213: 1574663245871723730
+    second: formulaMagneticFields_16
+  - first:
+      213: -5752566375651483613
+    second: formulaMagneticFields_17
+  - first:
+      213: -6251463809049441454
+    second: formulaMagneticFields_18
+  - first:
+      213: 3339535843346849265
+    second: formulaMagneticFields_19
+  - first:
+      213: -717178179629559877
+    second: formulaMagneticFields_20
+  - first:
+      213: -2914764191255784307
+    second: formulaMagneticFields_21
+  - first:
+      213: 4530619567746281622
+    second: formulaMagneticFields_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: formulaMagneticFields_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 384
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de4bb77861f75490800000000000000
+      internalID: -7757466402134733103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaMagneticFields_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 5
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d419579e8a42740800000000000000
+      internalID: 5126407996507770249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaMagneticFields_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 27
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6739d51d6588fe3b0800000000000000
+      internalID: -5481012315025468554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaMagneticFields_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 5
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67453cc615ffa920800000000000000
+      internalID: 3003888954743539562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaMagneticFields_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 27
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b0a6c05032c6ce0800000000000000
+      internalID: -1410714078683722865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaMagneticFields_5
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 5
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738eecda1c1c3e0d0800000000000000
+      internalID: -3394656656518354889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaMagneticFields_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 5
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c883f7f9b9a7990800000000000000
+      internalID: -7387421129411359632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaMagneticFields_7
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 27
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca6e93ac17caf8d0800000000000000
+      internalID: -2811716091521373495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaMagneticFields_8
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 5
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d240a8de281cb9b40800000000000000
+      internalID: 5448160942309901357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaMagneticFields_9
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 27
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c3ebf66696809c0800000000000000
+      internalID: -3960799983590032382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaMagneticFields_10
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 5
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7511dd43bfaea20800000000000000
+      internalID: 3092560298609039303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaMagneticFields_11
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 27
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13545d1bb00025120800000000000000
+      internalID: 2400981601570080049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaMagneticFields_12
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 5
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1b3b63ba99d8200800000000000000
+      internalID: 183972120428261839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaMagneticFields_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355294261ced4a170800000000000000
+      internalID: 8188914944625419603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaMagneticFields_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601622b3e5a9c14e0800000000000000
+      internalID: -2009561604204371706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaMagneticFields_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 5
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f18fbd2edcb81720800000000000000
+      internalID: 2817209229356532212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaMagneticFields_16
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 5
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d43c0311e35ad510800000000000000
+      internalID: 1574663245871723730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaMagneticFields_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 5
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320ef681c57ca20b0800000000000000
+      internalID: -5752566375651483613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaMagneticFields_18
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 5
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bc56f89c65e39a0800000000000000
+      internalID: -6251463809049441454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaMagneticFields_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 5
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd9f59e72a685e20800000000000000
+      internalID: 3339535843346849265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaMagneticFields_20
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 5
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfc482de321c06f0800000000000000
+      internalID: -717178179629559877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaMagneticFields_21
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d849b20496dac87d0800000000000000
+      internalID: -2914764191255784307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaMagneticFields_22
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 5
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69073fb1e7effde30800000000000000
+      internalID: 4530619567746281622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4fa2219255009e14f9c9d892eaf0c8d0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      formulaMagneticFields_0: -7757466402134733103
+      formulaMagneticFields_1: 5126407996507770249
+      formulaMagneticFields_10: 3092560298609039303
+      formulaMagneticFields_11: 2400981601570080049
+      formulaMagneticFields_12: 183972120428261839
+      formulaMagneticFields_13: 8188914944625419603
+      formulaMagneticFields_14: -2009561604204371706
+      formulaMagneticFields_15: 2817209229356532212
+      formulaMagneticFields_16: 1574663245871723730
+      formulaMagneticFields_17: -5752566375651483613
+      formulaMagneticFields_18: -6251463809049441454
+      formulaMagneticFields_19: 3339535843346849265
+      formulaMagneticFields_2: -5481012315025468554
+      formulaMagneticFields_20: -717178179629559877
+      formulaMagneticFields_21: -2914764191255784307
+      formulaMagneticFields_22: 4530619567746281622
+      formulaMagneticFields_3: 3003888954743539562
+      formulaMagneticFields_4: -1410714078683722865
+      formulaMagneticFields_5: -3394656656518354889
+      formulaMagneticFields_6: -7387421129411359632
+      formulaMagneticFields_7: -2811716091521373495
+      formulaMagneticFields_8: 5448160942309901357
+      formulaMagneticFields_9: -3960799983590032382
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

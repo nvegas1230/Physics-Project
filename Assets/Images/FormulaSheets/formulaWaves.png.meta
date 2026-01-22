@@ -1,0 +1,3471 @@
+fileFormatVersion: 2
+guid: f1828cf3d9f819a41b0a0296f7e28938
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6034929063738208038
+    second: formulaWaves_0
+  - first:
+      213: -5706776747888928977
+    second: formulaWaves_1
+  - first:
+      213: 4477123840694896209
+    second: formulaWaves_2
+  - first:
+      213: 9196532028147243152
+    second: formulaWaves_3
+  - first:
+      213: 1954507585948007464
+    second: formulaWaves_4
+  - first:
+      213: 1421973465959911085
+    second: formulaWaves_5
+  - first:
+      213: 6310695972489094227
+    second: formulaWaves_6
+  - first:
+      213: 1953853109024277899
+    second: formulaWaves_7
+  - first:
+      213: -8978703629444222783
+    second: formulaWaves_8
+  - first:
+      213: 5653689608934431738
+    second: formulaWaves_9
+  - first:
+      213: -4101592741032244531
+    second: formulaWaves_10
+  - first:
+      213: -6939497412806908345
+    second: formulaWaves_11
+  - first:
+      213: -3681473403639960620
+    second: formulaWaves_12
+  - first:
+      213: 643672159525538057
+    second: formulaWaves_13
+  - first:
+      213: -108776644267484752
+    second: formulaWaves_14
+  - first:
+      213: -1567585553976313182
+    second: formulaWaves_15
+  - first:
+      213: 4149846242346206331
+    second: formulaWaves_16
+  - first:
+      213: -4298643201920786660
+    second: formulaWaves_17
+  - first:
+      213: 1885607875580594435
+    second: formulaWaves_18
+  - first:
+      213: 4344572141259061876
+    second: formulaWaves_19
+  - first:
+      213: 6465358749744085462
+    second: formulaWaves_20
+  - first:
+      213: -3713182604351665463
+    second: formulaWaves_21
+  - first:
+      213: 6841856374698372988
+    second: formulaWaves_22
+  - first:
+      213: 977010892014933094
+    second: formulaWaves_23
+  - first:
+      213: 956165568529451601
+    second: formulaWaves_24
+  - first:
+      213: -4986767581074065974
+    second: formulaWaves_25
+  - first:
+      213: 6798652543774425937
+    second: formulaWaves_26
+  - first:
+      213: 8246334071189420755
+    second: formulaWaves_27
+  - first:
+      213: -7113805501761903492
+    second: formulaWaves_28
+  - first:
+      213: -2536272081303766784
+    second: formulaWaves_29
+  - first:
+      213: -8190086386069938755
+    second: formulaWaves_30
+  - first:
+      213: 3650722001910705603
+    second: formulaWaves_31
+  - first:
+      213: 9027329087396718924
+    second: formulaWaves_32
+  - first:
+      213: -4843537170756546292
+    second: formulaWaves_33
+  - first:
+      213: -2606289800564281175
+    second: formulaWaves_34
+  - first:
+      213: 8839759221076310911
+    second: formulaWaves_35
+  - first:
+      213: 2010983657849047092
+    second: formulaWaves_36
+  - first:
+      213: -7868019752084503882
+    second: formulaWaves_37
+  - first:
+      213: 5252186661936535516
+    second: formulaWaves_38
+  - first:
+      213: 998683121836595771
+    second: formulaWaves_39
+  - first:
+      213: -3816736902163561948
+    second: formulaWaves_40
+  - first:
+      213: -4429468503850536641
+    second: formulaWaves_41
+  - first:
+      213: -112612086018304344
+    second: formulaWaves_42
+  - first:
+      213: -1468605441150176589
+    second: formulaWaves_43
+  - first:
+      213: -1223011504100985244
+    second: formulaWaves_44
+  - first:
+      213: -1054334299782530948
+    second: formulaWaves_45
+  - first:
+      213: 3828164006092483646
+    second: formulaWaves_46
+  - first:
+      213: -1979789247556631961
+    second: formulaWaves_47
+  - first:
+      213: -6431214843212523471
+    second: formulaWaves_48
+  - first:
+      213: -9019450739124232675
+    second: formulaWaves_49
+  - first:
+      213: -8027962129389822922
+    second: formulaWaves_50
+  - first:
+      213: -6824944652283762344
+    second: formulaWaves_51
+  - first:
+      213: 3384238020407377076
+    second: formulaWaves_52
+  - first:
+      213: 6506577930181684994
+    second: formulaWaves_53
+  - first:
+      213: 7333306766486756495
+    second: formulaWaves_54
+  - first:
+      213: 7669734163888006478
+    second: formulaWaves_55
+  - first:
+      213: -6557156728608240788
+    second: formulaWaves_56
+  - first:
+      213: 8759556054721168603
+    second: formulaWaves_57
+  - first:
+      213: -5302046683778729945
+    second: formulaWaves_58
+  - first:
+      213: 7992037587602831773
+    second: formulaWaves_59
+  - first:
+      213: -7047902437034322762
+    second: formulaWaves_60
+  - first:
+      213: -1978100445572399201
+    second: formulaWaves_61
+  - first:
+      213: 3261002737136053233
+    second: formulaWaves_62
+  - first:
+      213: -8425649157245295475
+    second: formulaWaves_63
+  - first:
+      213: 1669383031312744660
+    second: formulaWaves_64
+  - first:
+      213: -5729936756005354157
+    second: formulaWaves_65
+  - first:
+      213: 6999298682221052316
+    second: formulaWaves_66
+  - first:
+      213: -818447155591149992
+    second: formulaWaves_67
+  - first:
+      213: -4785294212687694255
+    second: formulaWaves_68
+  - first:
+      213: -8032962717705223344
+    second: formulaWaves_69
+  - first:
+      213: -5132511023876970356
+    second: formulaWaves_70
+  - first:
+      213: 6456914425457027308
+    second: formulaWaves_71
+  - first:
+      213: 7664817361140191759
+    second: formulaWaves_72
+  - first:
+      213: -3343287546751954852
+    second: formulaWaves_73
+  - first:
+      213: -6216500436694131251
+    second: formulaWaves_74
+  - first:
+      213: 485034183772365134
+    second: formulaWaves_75
+  - first:
+      213: 959638252145961614
+    second: formulaWaves_76
+  - first:
+      213: -5295830772815426284
+    second: formulaWaves_77
+  - first:
+      213: 4804727353661976625
+    second: formulaWaves_78
+  - first:
+      213: -2314105329271624569
+    second: formulaWaves_79
+  - first:
+      213: -8676291266672704127
+    second: formulaWaves_80
+  - first:
+      213: 6416960351961331789
+    second: formulaWaves_81
+  - first:
+      213: -3717920506211250433
+    second: formulaWaves_82
+  - first:
+      213: 1821215709866125641
+    second: formulaWaves_83
+  - first:
+      213: 6865149227886558172
+    second: formulaWaves_84
+  - first:
+      213: 6924558929797294070
+    second: formulaWaves_85
+  - first:
+      213: 1107160393519519010
+    second: formulaWaves_86
+  - first:
+      213: 8185332836730270180
+    second: formulaWaves_87
+  - first:
+      213: 1631570350195274188
+    second: formulaWaves_88
+  - first:
+      213: -414446395753064207
+    second: formulaWaves_89
+  - first:
+      213: -8750273760074197811
+    second: formulaWaves_90
+  - first:
+      213: 6646563126960408281
+    second: formulaWaves_91
+  - first:
+      213: 4055349871791163966
+    second: formulaWaves_92
+  - first:
+      213: -4800851425039811920
+    second: formulaWaves_93
+  - first:
+      213: -5894113065938998619
+    second: formulaWaves_94
+  - first:
+      213: 5799825692604102638
+    second: formulaWaves_95
+  - first:
+      213: 806547462710907200
+    second: formulaWaves_96
+  - first:
+      213: 3078931732798293630
+    second: formulaWaves_97
+  - first:
+      213: -5088068802307487671
+    second: formulaWaves_98
+  - first:
+      213: 1826764634248069843
+    second: formulaWaves_99
+  - first:
+      213: -4662694572866280147
+    second: formulaWaves_100
+  - first:
+      213: -6564495479218488288
+    second: formulaWaves_101
+  - first:
+      213: 6667159328174851204
+    second: formulaWaves_102
+  - first:
+      213: 1920059647081837192
+    second: formulaWaves_103
+  - first:
+      213: 8458521419730752077
+    second: formulaWaves_104
+  - first:
+      213: 3541667738773012612
+    second: formulaWaves_105
+  - first:
+      213: -7883495793410163772
+    second: formulaWaves_106
+  - first:
+      213: 4366967681902129400
+    second: formulaWaves_107
+  - first:
+      213: 3945337294355482107
+    second: formulaWaves_108
+  - first:
+      213: 8692434001153476468
+    second: formulaWaves_109
+  - first:
+      213: 7539991584432264163
+    second: formulaWaves_110
+  - first:
+      213: 8260626360266185123
+    second: formulaWaves_111
+  - first:
+      213: -6152534830237474384
+    second: formulaWaves_112
+  - first:
+      213: -6883500445908740655
+    second: formulaWaves_113
+  - first:
+      213: 4613043631460392930
+    second: formulaWaves_114
+  - first:
+      213: -8278650671363228154
+    second: formulaWaves_115
+  - first:
+      213: -269840771895366368
+    second: formulaWaves_116
+  - first:
+      213: 4090433621141350415
+    second: formulaWaves_117
+  - first:
+      213: -4360303515480488475
+    second: formulaWaves_118
+  - first:
+      213: 838361998846988221
+    second: formulaWaves_119
+  - first:
+      213: -6178780739001873523
+    second: formulaWaves_120
+  - first:
+      213: -7588063650822239946
+    second: formulaWaves_121
+  - first:
+      213: -8588948639214790719
+    second: formulaWaves_122
+  - first:
+      213: -3255124435523197907
+    second: formulaWaves_123
+  - first:
+      213: 24258178551234850
+    second: formulaWaves_124
+  - first:
+      213: 2499033302941164754
+    second: formulaWaves_125
+  - first:
+      213: 1366122773938356706
+    second: formulaWaves_126
+  - first:
+      213: 8045493457009135657
+    second: formulaWaves_127
+  - first:
+      213: -8746585506192211451
+    second: formulaWaves_128
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: formulaWaves_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 731
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62febc0520060c350800000000000000
+      internalID: 6034929063738208038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 280
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f271f9998c47dc0b0800000000000000
+      internalID: -5706776747888928977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_2
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 280
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1564d0c8960f12e30800000000000000
+      internalID: 4477123840694896209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 280
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098183f7725a0af70800000000000000
+      internalID: 9196532028147243152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 291
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cbc334b4ecf1b10800000000000000
+      internalID: 1954507585948007464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 274
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae4296555ddbb310800000000000000
+      internalID: 1421973465959911085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_6
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 275
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35463bd2d88149750800000000000000
+      internalID: 6310695972489094227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_7
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 286
+        width: 76
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b854faafc0b7d1b10800000000000000
+      internalID: 1953853109024277899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_8
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 298
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c07777ce9c356380800000000000000
+      internalID: -8978703629444222783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_9
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 298
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb9adaaeb0f57e40800000000000000
+      internalID: 5653689608934431738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_10
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 298
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcac37912273417c0800000000000000
+      internalID: -4101592741032244531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_11
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 298
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746e6edbed3f1bf90800000000000000
+      internalID: -6939497412806908345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_12
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 280
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbedf5d177c8ecc0800000000000000
+      internalID: -3681473403639960620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_13
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 298
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90904543b68cee800800000000000000
+      internalID: 643672159525538057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_14
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 280
+        width: 40
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9d396e73c8d7ef0800000000000000
+      internalID: -108776644267484752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_15
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa353c7e31de3ae0800000000000000
+      internalID: -1567585553976313182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_16
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 280
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74098bab27379930800000000000000
+      internalID: 4149846242346206331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_17
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 280
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f1d5578c62854c0800000000000000
+      internalID: -4298643201920786660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_18
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 262
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30909a95f560b2a10800000000000000
+      internalID: 1885607875580594435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_19
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 256
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47afdcc08550b4c30800000000000000
+      internalID: 4344572141259061876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_20
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 262
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9b5f7278199b950800000000000000
+      internalID: 6465358749744085462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_21
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 262
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca85793810287cc0800000000000000
+      internalID: -3713182604351665463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_22
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 206
+        width: 42
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f63228f1823fe50800000000000000
+      internalID: 6841856374698372988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_23
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 201
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664dc38da3a0f8d00800000000000000
+      internalID: 977010892014933094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_24
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 206
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a48a2c48bf44d00800000000000000
+      internalID: 956165568529451601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 206
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac575a85e417bcab0800000000000000
+      internalID: -4986767581074065974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_26
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 207
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1530bfeb77aa95e50800000000000000
+      internalID: 6798652543774425937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_27
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 206
+        width: 41
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da3274952dd07270800000000000000
+      internalID: 8246334071189420755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_28
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 188
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c742342369fa64d90800000000000000
+      internalID: -7113805501761903492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_29
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 224
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009f524daf95dccd0800000000000000
+      internalID: -2536272081303766784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_30
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 206
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdd98623d7f65e80800000000000000
+      internalID: -8190086386069938755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_31
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 212
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd27918158f9a230800000000000000
+      internalID: 3650722001910705603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_32
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 206
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4925d4e9f3874d70800000000000000
+      internalID: 9027329087396718924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_33
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 203
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01d7a8fa9c48ccb0800000000000000
+      internalID: -4843537170756546292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_34
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 206
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a074af2c3994dbd0800000000000000
+      internalID: -2606289800564281175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_35
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 207
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bbc303d222daa70800000000000000
+      internalID: 8839759221076310911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_36
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 221
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438453f6bf278eb10800000000000000
+      internalID: 2010983657849047092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_37
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 206
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b20f37d8bd2fc290800000000000000
+      internalID: -7868019752084503882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_38
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 203
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd795c611f383e840800000000000000
+      internalID: 5252186661936535516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_39
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 206
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a9f3012090cdd00800000000000000
+      internalID: 998683121836595771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_40
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 203
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4228a69620a380bc0800000000000000
+      internalID: -3816736902163561948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_41
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 206
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3135343ddd5782c0800000000000000
+      internalID: -4429468503850536641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_42
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 207
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6967787ebef6ef0800000000000000
+      internalID: -112612086018304344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_43
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 221
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2b90dd1277e9be0800000000000000
+      internalID: -1468605441150176589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_44
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 206
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46638dd448df60fe0800000000000000
+      internalID: -1223011504100985244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_45
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 203
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78b3fa5a804e51f0800000000000000
+      internalID: -1054334299782530948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_46
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 188
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c241d81ee502530800000000000000
+      internalID: 3828164006092483646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_47
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 156
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762cf313b206684e0800000000000000
+      internalID: -1979789247556631961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 156
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13819149c2cbfb6a0800000000000000
+      internalID: -6431214843212523471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_49
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 171
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e9d51075974d280800000000000000
+      internalID: -9019450739124232675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_50
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 156
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c5e6f2af2f69090800000000000000
+      internalID: -8027962129389822922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_51
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 141
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859ace4bffce841a0800000000000000
+      internalID: -6824944652283762344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_52
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 156
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcb0c19c8a37fe20800000000000000
+      internalID: 3384238020407377076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_53
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 152
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f20e777220c4a50800000000000000
+      internalID: 6506577930181684994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_54
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 141
+        width: 63
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c596d86a325c560800000000000000
+      internalID: 7333306766486756495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_55
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 152
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45e838069e507a60800000000000000
+      internalID: 7669734163888006478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_56
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 138
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b4eb652bc4005a0800000000000000
+      internalID: -6557156728608240788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_57
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 133
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd407c752d1309970800000000000000
+      internalID: 8759556054721168603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_58
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 138
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728b4dee1a85b66b0800000000000000
+      internalID: -5302046683778729945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_59
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 138
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99f2a0a7db69ee60800000000000000
+      internalID: 7992037587602831773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_60
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 137
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b495fc2312d03e90800000000000000
+      internalID: -7047902437034322762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_61
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 138
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f7d9b00206c84e0800000000000000
+      internalID: -1978100445572399201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_62
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 137
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb229e36b8614d20800000000000000
+      internalID: 3261002737136053233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_63
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 133
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8423548bb4121b80800000000000000
+      internalID: -8425649157245295475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_64
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 132
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0067fa507da2710800000000000000
+      internalID: 1669383031312744660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_65
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 133
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355c8d001ec2b70b0800000000000000
+      internalID: -5729936756005354157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_66
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 131
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9145ae4111822160800000000000000
+      internalID: 6999298682221052316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_67
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 119
+        width: 69
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8568f87f5aa44a4f0800000000000000
+      internalID: -818447155591149992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_68
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 119
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15674036448379db0800000000000000
+      internalID: -4785294212687694255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_69
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 120
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053493df7fe258090800000000000000
+      internalID: -8032962717705223344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_70
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 134
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c886900ca68a5c8b0800000000000000
+      internalID: -5132511023876970356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_71
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 119
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce82672b5719b9950800000000000000
+      internalID: 6456914425457027308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_72
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 119
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02120fa7c6ee5a60800000000000000
+      internalID: 7664817361140191759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_73
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 134
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50dcd190b14a91d0800000000000000
+      internalID: -3343287546751954852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_74
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 134
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd19cc0acd8ab9a0800000000000000
+      internalID: -6216500436694131251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_75
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 134
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e416ca335003bb600800000000000000
+      internalID: 485034183772365134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_76
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 134
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a690ce7e1515d00800000000000000
+      internalID: 959638252145961614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_77
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 134
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d01cb78fd6186b0800000000000000
+      internalID: -5295830772815426284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_78
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 134
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130ff955212dda240800000000000000
+      internalID: 4804727353661976625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_79
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 134
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c2de3b675a2efd0800000000000000
+      internalID: -2314105329271624569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_80
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 116
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185462adf0f979780800000000000000
+      internalID: -8676291266672704127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 116
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48bb6c017f9d0950800000000000000
+      internalID: 6416960351961331789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_82
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 116
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe432c7ffa476cc0800000000000000
+      internalID: -3717920506211250433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_83
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 82
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9496ee5f902464910800000000000000
+      internalID: 1821215709866125641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_84
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 78
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbb93289d8e54f50800000000000000
+      internalID: 6865149227886558172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_85
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 82
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7a3d4a8a9f81060800000000000000
+      internalID: 6924558929797294070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_86
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 82
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225dc1d038c6d5f00800000000000000
+      internalID: 1107160393519519010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_87
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 82
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1f5a5e8d4289170800000000000000
+      internalID: 8185332836730270180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_88
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 80
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1f27dc69084a610800000000000000
+      internalID: 1631570350195274188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_89
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 82
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f892bae2379f3af0800000000000000
+      internalID: -414446395753064207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_90
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 82
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc41b5b4068c09680800000000000000
+      internalID: -8750273760074197811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_91
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 82
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d64fafe2f55d3c50800000000000000
+      internalID: 6646563126960408281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_92
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 82
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ac904e83f774830800000000000000
+      internalID: 4055349871791163966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_93
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 78
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0baf21f9013ff5db0800000000000000
+      internalID: -4800851425039811920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_94
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 24
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aaa7b61567e33ea0800000000000000
+      internalID: -5894113065938998619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_95
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 24
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7f9d61dbe1d7050800000000000000
+      internalID: 5799825692604102638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_96
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0415061e4ae613b00800000000000000
+      internalID: 806547462710907200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_97
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 17
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76ce1d19109aba20800000000000000
+      internalID: 3078931732798293630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_98
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 24
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94807bdc16c8369b0800000000000000
+      internalID: -5088068802307487671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_99
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 24
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d24a9891c8f95910800000000000000
+      internalID: 1826764634248069843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_100
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 24
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25e9207df7ca4fb0800000000000000
+      internalID: -4662694572866280147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_101
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 17
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c368f442a36e4a0800000000000000
+      internalID: -6564495479218488288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_102
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 24
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4844bc8b512868c50800000000000000
+      internalID: 6667159328174851204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_103
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 24
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882ffdb731c65aa10800000000000000
+      internalID: 1920059647081837192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_104
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 0
+        width: 16
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4295148a64b26570800000000000000
+      internalID: 8458521419730752077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_105
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 0
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480c60a3b08862130800000000000000
+      internalID: 3541667738773012612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_106
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 42
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb308d2852389290800000000000000
+      internalID: -7883495793410163772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_107
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 24
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0336138f59a9c30800000000000000
+      internalID: 4366967681902129400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_108
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 17
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5c82dad57a0c630800000000000000
+      internalID: 3945337294355482107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_109
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 24
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477c7486baab1a870800000000000000
+      internalID: 8692434001153476468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_110
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 24
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3158fb56e63a860800000000000000
+      internalID: 7539991584432264163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_111
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 17
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9d4e178e3a3a270800000000000000
+      internalID: 8260626360266185123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_112
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 19
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b12a7f5b2ecd9aa0800000000000000
+      internalID: -6152534830237474384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_113
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 24
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5dd5690d4e870a0800000000000000
+      internalID: -6883500445908740655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_114
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 24
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef139aedb2d40040800000000000000
+      internalID: 4613043631460392930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_115
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 24
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e78d993135c1d80800000000000000
+      internalID: -8278650671363228154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_116
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 24
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d62456f35514cf0800000000000000
+      internalID: -269840771895366368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_117
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 24
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08e175d4b324c830800000000000000
+      internalID: 4090433621141350415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_118
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 24
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e506e6fd071d73c0800000000000000
+      internalID: -4360303515480488475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_119
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 24
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf067ecbc572ab00800000000000000
+      internalID: 838361998846988221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_120
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 19
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b84ca87af804aa0800000000000000
+      internalID: -6178780739001873523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_121
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 24
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639cfa71058c1b690800000000000000
+      internalID: -7588063650822239946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_122
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 6
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7178508bcedc880800000000000000
+      internalID: -8588948639214790719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_123
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 24
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2422f0829973d2d0800000000000000
+      internalID: -3255124435523197907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_124
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 24
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221c1735fae265000800000000000000
+      internalID: 24258178551234850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_125
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 24
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4edaf6c895ea220800000000000000
+      internalID: 2499033302941164754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_126
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 24
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1ca24cc6175f210800000000000000
+      internalID: 1366122773938356706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_127
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 24
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92052cb1ca557af60800000000000000
+      internalID: 8045493457009135657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: formulaWaves_128
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 24
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50245d1d2d2ed9680800000000000000
+      internalID: -8746585506192211451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 44f576435f51b4f4aaaa7ac5cb2368d7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      formulaWaves_0: 6034929063738208038
+      formulaWaves_1: -5706776747888928977
+      formulaWaves_10: -4101592741032244531
+      formulaWaves_100: -4662694572866280147
+      formulaWaves_101: -6564495479218488288
+      formulaWaves_102: 6667159328174851204
+      formulaWaves_103: 1920059647081837192
+      formulaWaves_104: 8458521419730752077
+      formulaWaves_105: 3541667738773012612
+      formulaWaves_106: -7883495793410163772
+      formulaWaves_107: 4366967681902129400
+      formulaWaves_108: 3945337294355482107
+      formulaWaves_109: 8692434001153476468
+      formulaWaves_11: -6939497412806908345
+      formulaWaves_110: 7539991584432264163
+      formulaWaves_111: 8260626360266185123
+      formulaWaves_112: -6152534830237474384
+      formulaWaves_113: -6883500445908740655
+      formulaWaves_114: 4613043631460392930
+      formulaWaves_115: -8278650671363228154
+      formulaWaves_116: -269840771895366368
+      formulaWaves_117: 4090433621141350415
+      formulaWaves_118: -4360303515480488475
+      formulaWaves_119: 838361998846988221
+      formulaWaves_12: -3681473403639960620
+      formulaWaves_120: -6178780739001873523
+      formulaWaves_121: -7588063650822239946
+      formulaWaves_122: -8588948639214790719
+      formulaWaves_123: -3255124435523197907
+      formulaWaves_124: 24258178551234850
+      formulaWaves_125: 2499033302941164754
+      formulaWaves_126: 1366122773938356706
+      formulaWaves_127: 8045493457009135657
+      formulaWaves_128: -8746585506192211451
+      formulaWaves_13: 643672159525538057
+      formulaWaves_14: -108776644267484752
+      formulaWaves_15: -1567585553976313182
+      formulaWaves_16: 4149846242346206331
+      formulaWaves_17: -4298643201920786660
+      formulaWaves_18: 1885607875580594435
+      formulaWaves_19: 4344572141259061876
+      formulaWaves_2: 4477123840694896209
+      formulaWaves_20: 6465358749744085462
+      formulaWaves_21: -3713182604351665463
+      formulaWaves_22: 6841856374698372988
+      formulaWaves_23: 977010892014933094
+      formulaWaves_24: 956165568529451601
+      formulaWaves_25: -4986767581074065974
+      formulaWaves_26: 6798652543774425937
+      formulaWaves_27: 8246334071189420755
+      formulaWaves_28: -7113805501761903492
+      formulaWaves_29: -2536272081303766784
+      formulaWaves_3: 9196532028147243152
+      formulaWaves_30: -8190086386069938755
+      formulaWaves_31: 3650722001910705603
+      formulaWaves_32: 9027329087396718924
+      formulaWaves_33: -4843537170756546292
+      formulaWaves_34: -2606289800564281175
+      formulaWaves_35: 8839759221076310911
+      formulaWaves_36: 2010983657849047092
+      formulaWaves_37: -7868019752084503882
+      formulaWaves_38: 5252186661936535516
+      formulaWaves_39: 998683121836595771
+      formulaWaves_4: 1954507585948007464
+      formulaWaves_40: -3816736902163561948
+      formulaWaves_41: -4429468503850536641
+      formulaWaves_42: -112612086018304344
+      formulaWaves_43: -1468605441150176589
+      formulaWaves_44: -1223011504100985244
+      formulaWaves_45: -1054334299782530948
+      formulaWaves_46: 3828164006092483646
+      formulaWaves_47: -1979789247556631961
+      formulaWaves_48: -6431214843212523471
+      formulaWaves_49: -9019450739124232675
+      formulaWaves_5: 1421973465959911085
+      formulaWaves_50: -8027962129389822922
+      formulaWaves_51: -6824944652283762344
+      formulaWaves_52: 3384238020407377076
+      formulaWaves_53: 6506577930181684994
+      formulaWaves_54: 7333306766486756495
+      formulaWaves_55: 7669734163888006478
+      formulaWaves_56: -6557156728608240788
+      formulaWaves_57: 8759556054721168603
+      formulaWaves_58: -5302046683778729945
+      formulaWaves_59: 7992037587602831773
+      formulaWaves_6: 6310695972489094227
+      formulaWaves_60: -7047902437034322762
+      formulaWaves_61: -1978100445572399201
+      formulaWaves_62: 3261002737136053233
+      formulaWaves_63: -8425649157245295475
+      formulaWaves_64: 1669383031312744660
+      formulaWaves_65: -5729936756005354157
+      formulaWaves_66: 6999298682221052316
+      formulaWaves_67: -818447155591149992
+      formulaWaves_68: -4785294212687694255
+      formulaWaves_69: -8032962717705223344
+      formulaWaves_7: 1953853109024277899
+      formulaWaves_70: -5132511023876970356
+      formulaWaves_71: 6456914425457027308
+      formulaWaves_72: 7664817361140191759
+      formulaWaves_73: -3343287546751954852
+      formulaWaves_74: -6216500436694131251
+      formulaWaves_75: 485034183772365134
+      formulaWaves_76: 959638252145961614
+      formulaWaves_77: -5295830772815426284
+      formulaWaves_78: 4804727353661976625
+      formulaWaves_79: -2314105329271624569
+      formulaWaves_8: -8978703629444222783
+      formulaWaves_80: -8676291266672704127
+      formulaWaves_81: 6416960351961331789
+      formulaWaves_82: -3717920506211250433
+      formulaWaves_83: 1821215709866125641
+      formulaWaves_84: 6865149227886558172
+      formulaWaves_85: 6924558929797294070
+      formulaWaves_86: 1107160393519519010
+      formulaWaves_87: 8185332836730270180
+      formulaWaves_88: 1631570350195274188
+      formulaWaves_89: -414446395753064207
+      formulaWaves_9: 5653689608934431738
+      formulaWaves_90: -8750273760074197811
+      formulaWaves_91: 6646563126960408281
+      formulaWaves_92: 4055349871791163966
+      formulaWaves_93: -4800851425039811920
+      formulaWaves_94: -5894113065938998619
+      formulaWaves_95: 5799825692604102638
+      formulaWaves_96: 806547462710907200
+      formulaWaves_97: 3078931732798293630
+      formulaWaves_98: -5088068802307487671
+      formulaWaves_99: 1826764634248069843
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
