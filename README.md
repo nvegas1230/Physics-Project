@@ -9,4 +9,4 @@ For the project itself, Study Time is a game/program that helps students study. 
 
 Study Time does not currently have a Waves unit inside it. My reasoning behind this decision is that we are being taught concepts and formulas with waves until the end of the semester, and I would not be able to add information to waves that is taught later on in the final week (because it is due right at 3:30pm on Friday). I decided it would be better to polish the other units and add quality of life features, like a formula sheet, to the program. I also have to study for three exams and Cyber Patriot semi-finals, which leaves very little time to work on my project at the end of the semester, which is when waves are taught. 
 
-I have learned a lot about coding from this project, and I am planning to add waves in semester two so other students can use this tool. I will also improve on it by adding grade 12 physics concepts when I take Physics40S.
+I have learned a lot about coding from this project, and I am planning to add waves in semester two so other students can use this tool. I also plan to improve on it by adding grade 12 physics concepts when I take Physics 40S.
